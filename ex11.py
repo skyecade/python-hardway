@@ -5,5 +5,4 @@ height = input()
 print("How much do you weigh?", end=' ')
 weight = input()
 
-print(
-    f"So, you're {age} years old, {height} feet tall, and weigh {weight} pounds.")
+print(f"So, you're {age} years old, {height} feet tall, and weigh {weight} pounds.")
