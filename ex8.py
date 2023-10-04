@@ -7,7 +7,6 @@ print(formatter.format(formatter, formatter, formatter, formatter))
 print(formatter.format(
     "Try your",
     "Own text here",
-    "Maybe a poen",
+    "Maybe a poem",
     "Or a song about fear"
 ))
-
