@@ -1,0 +1,28 @@
++ - addition
+- - suntraction
+* - multiplication
+/ - division
+^ - power
+% - modular
+// - floor
+> - greater than
+< - less than
+<= - less than or equal to
+>= - greater than or equal to
+= - equals
+== - equality check
+!= - not equal too
+|| - or
++= - incremental
+-= - reduction
+"" - string
+[] - list
+() - tuple
+{} - dictionary
+func() - funtion
+# - comment
+""" """ - multiline quotes - holds formating
+f - f-string let's you put a variable in a string, e.g. print(f"My name is {name}")
+\n - newline
+\t - tab
+
